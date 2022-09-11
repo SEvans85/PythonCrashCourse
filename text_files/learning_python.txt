@@ -1,0 +1,4 @@
+In Python you can create classes
+In Python you can scrape data from the web
+In Python you can automate tasks
+In Python you can rule the world!
